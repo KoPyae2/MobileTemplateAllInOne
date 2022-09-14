@@ -1,0 +1,107 @@
+[
+    {
+      "cnName": "英文",
+      "enName": "English",
+      "showName": "English",
+      "iso_code": "en",
+      "id": 1
+    },
+    {
+      "cnName": "中文",
+      "enName": "Chinese",
+      "showName": "简体中文",
+      "iso_code": "cn",
+      "id": 2
+    },
+    {
+      "cnName": "西班牙语",
+      "enName": "Spanish",
+      "showName": "Español",
+      "iso_code": "es",
+      "id": 3
+    },
+    {
+      "cnName": "希腊语",
+      "enName": "Greek",
+      "showName": "Griego",
+      "iso_code": "gr",
+      "id": 4
+    },
+    {
+      "cnName": "塞尔维亚",
+      "enName": "Serbia",
+      "showName": "Србија",
+      "iso_code": "rs",
+      "id": 5
+    },
+    {
+      "cnName": "荷兰语",
+      "enName": "Dutch",
+      "showName": "Nederlands",
+      "iso_code": "nl",
+      "id": 6
+    },
+    {
+      "cnName": "德语",
+      "enName": "German",
+      "showName": "Deutsch",
+      "iso_code": "de",
+      "id": 7
+    },
+    {
+      "cnName": "法语",
+      "enName": "French",
+      "showName": "Français",
+      "iso_code": "fr",
+      "id": 8
+    },
+    {
+      "cnName": "葡萄牙语",
+      "enName": "Portuguese",
+      "showName": "Português",
+      "iso_code": "pt",
+      "id": 9
+    },
+    {
+      "cnName": "瑞典语",
+      "enName": "Swedish",
+      "showName": "Svenska",
+      "iso_code": "se",
+      "id": 10
+    },
+    {
+      "cnName": "意大利语",
+      "enName": "Italian",
+      "showName": "Italiano",
+      "iso_code": "it",
+      "id": 11
+    },
+    {
+      "cnName": "克罗地亚语",
+      "enName": "Croatian",
+      "showName": "Hrvatski",
+      "iso_code": "hr",
+      "id": 12
+    },
+    {
+      "cnName": "加泰罗尼亚语",
+      "enName": "Catalan",
+      "showName": "Català",
+      "iso_code": "ca",
+      "id": 13
+    },
+    {
+      "cnName": "土耳其语",
+      "enName": "Turkish",
+      "showName": "Türkçe",
+      "iso_code": "tr",
+      "id": 14
+    },
+    {
+      "cnName": "俄罗斯",
+      "enName": "Russian",
+      "showName": "Pусский",
+      "iso_code": "ru",
+      "id": 15
+    }
+  ]

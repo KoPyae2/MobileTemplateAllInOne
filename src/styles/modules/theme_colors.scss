@@ -1,0 +1,149 @@
+$test : 10px;
+
+[theme="light"] {
+    --app-background-color: #EFEFEF;
+
+    --theme-primary: #00909c;
+    --theme-primary-light: #53c1cd;
+    --theme-primary-dark: #00393e;
+    --theme-secondary: #1989FA;
+    --theme-secondary-light: #6db8ff;
+    --theme-secondary-dark: #005dc6;
+    --theme-text: rgba(66, 66, 66, 1);
+    --theme-button: linear-gradient(149.21deg, rgba(255, 203, 82, 1) 2.42%, rgba(255, 120, 2, 1) 100.5%), linear-gradient(101.18deg, rgba(249, 249, 249, 1) 23.52%, rgba(200, 200, 200, 1) 239.04%);
+
+    --theme-button-shadow: 0 #{px2rem(16)} #{px2rem(32)} rgba(255, 130, 12, 0.25);
+    --theme-tab-color: rgba(255, 153, 0, 1);
+  
+    --theme-tab-sell:  linear-gradient(180deg, rgba(255, 91, 81, 1) 0%, rgba(255, 20, 20, 1) 100%, rgba(211, 24, 12, 1) 100%);
+    
+    //tabbar
+    --tabbar-font-color: rgb(66, 66, 66);
+    
+    //home
+    --home-footer-main-color:rgba(255, 255, 255, 1);
+    --home-bg:#EFEFEF;
+    --home-message:rgba(133, 133, 133, 1);;
+    --home-info-text: rgba(191, 191, 191, 1);
+    --home-good-btn-bg: linear-gradient(149.21deg, rgba(255, 203, 82, 1) 2.42%, rgba(255, 120, 2, 1) 100.5%);
+    --home-good-btn-border: rgba(255, 161, 79, 1);
+    --home-good-btn-shadow: 0 #{px2rem(4)} #{px2rem(16)} rgba(255, 130, 12, 0.25);
+    --home-good-vip-btn-bg:linear-gradient(149.21deg, rgba(255, 203, 82, 1) 2.42%, rgba(255, 120, 2, 1) 100.5%);
+    --home-good-vip-btn-shadow: 0 #{px2rem(8)} #{px2rem(20)} rgba(255, 130, 12, 0.4); 
+    --home-room-status-color:rgba(139, 139, 139, 1);
+    --home-room-status-background:linear-gradient(104.11deg, rgba(255, 255, 255, 1) -39.79%, rgba(249, 249, 249, 1) 132.69%);
+    --sidebar-background:rgba(239, 239, 239, 1);
+    --switch-color:rgba(227, 229, 229, 1);
+
+    --card-background:   linear-gradient(104.11deg, rgba(255, 255, 255, 1) -39.79%, rgba(249, 249, 249, 1) 132.69%);
+    --tab-background:  linear-gradient(104.11deg, rgba(255, 255, 255, 1) -39.79%, rgba(249, 249, 249, 1) 132.69%);
+    --image-background:  rgba(255, 255, 255, 1);
+    --image-border-background: rgba(239, 239, 239, 1);
+    --pending-status: rgba(255, 153, 0, 1);
+
+    //add wallet address
+    --add-wallet-main-background: rgba(255, 255, 255, 1);
+    --add-wallet-header-color: rgba(66, 66, 66, 1);
+    --add-wallet-form-label-color: rgba(66, 66, 66, 1);
+    --add-wallet-input-background: rgba(255, 255, 255, 1);
+    --add-wallet-input-placeholder: rgb(191, 191, 191);
+    --add-wallet-input-border: rgba(239, 239, 239, 1);
+    --add-wallet-mainnet-background: rgba(239, 239, 239, 1);
+    --add-wallet-mainnet-active: rgba(255, 153, 0, 1);
+
+    //share page
+    --share-main-background:  rgba(255, 255, 255, 1);
+    --share-input-background: rgba(239, 239, 239, 1);
+
+    //Room Detail
+    --room-detail-background: rgba(239, 239, 239, 1);
+    --room-detail-card-background: linear-gradient(104.11deg, rgba(255, 255, 255, 1) -39.79%, rgba(237, 237, 237, 1) 132.69%);
+    --room-detail-card-shadow: rgba(0, 0, 0, 0.1); 
+    --room-detail-card-img-background: linear-gradient(104.11deg, rgba(255, 255, 255, 1) -39.79%, rgba(249, 249, 249, 1) 132.69%);
+    --room-detail-content-wrap-background: linear-gradient(104.11deg, rgba(255, 255, 255, 1) -39.79%, rgba(249, 249, 249, 1) 132.69%);
+    --room-detail-tab-item-background: rgba(239, 239, 239, 1);
+    --room-detail-tab-item-title-background: linear-gradient(104.11deg, rgba(255, 255, 255, 1) -39.79%, rgba(249, 249, 249, 1) 132.69%);
+    --room-detail-progress-inactive-bg: rgba(227, 229, 229, 1);
+    --room-detail-plus-icon-background: rgba(239, 239, 239, 1);
+    --room-detail-plus-icon-color: rgba(66, 66, 66, 1);
+    --room-detail-footer-bg-color: rgba(255, 255, 255, 1);
+
+    //number keyboard color
+    --number-keyboard-background: rgba(227, 229, 229, 1);
+    --number-keyboard-color: rgba(9, 10, 10, 1);
+    --number-keyboard-item-background: rgba(255, 255, 255, 1);
+}
+
+[theme="dark"] {
+    --app-background-color: rgba(31, 33, 37, 1);
+
+    --theme-primary: #00909c;
+    --theme-primary-light: #53c1cd;
+    --theme-primary-dark: #00393e;
+    --theme-secondary: #1989FA;
+    --theme-secondary-light: #6db8ff;
+    --theme-secondary-dark: #005dc6;
+    --theme-text: #FFFFFF;
+    --theme-button:  linear-gradient(101.18deg, rgba(50, 52, 59, 1) 23.52%, rgba(114, 117, 129, 0) 239.04%);
+
+    --theme-button-shadow: 0  #{px2rem(20.8)} #{px2rem(42.7)} rgba(0, 0, 0, 0.4);
+    --theme-tab-color: rgba(255, 255, 255, 1);
+   
+    --theme-tab-sell:  linear-gradient(180deg, rgba(255, 162, 162, 1) -11.72%, rgba(255, 20, 20, 1) 121.87%, rgba(210, 0, 0, 1) 121.87%, rgba(255, 129, 129, 1) 121.87%);
+
+    //tabbar
+    --tabbar-font-color: rgb(227, 229, 229);
+
+    //home
+    --home-footer-main-color: rgba(40, 42, 47, 1);;
+    --home-bg: rgba(31, 33, 37, 1);
+    --home-message: rgba(255, 255, 255, 1);
+    --home-info-text: #666B79;
+    --home-good-btn-bg:linear-gradient(180deg, rgba(111, 117, 128, 1) -52.86%, rgba(31, 34, 37, 0) 209.16%);
+    --home-good-btn-border: rgba(55, 73, 87, 0.2);
+    --home-good-btn-shadow: 0 #{px2rem(20)} #{px2rem(46)} rgba(0, 0, 0, 0.25);
+    --home-good-vip-btn-bg: linear-gradient(101.18deg, rgba(114, 117, 129, 0) 23.52%, rgba(50, 52, 59, 1) 239.04%),
+            linear-gradient(101.18deg, rgba(50, 52, 59, 1) 23.52%, rgba(114, 117, 129, 0) 239.04%);
+    --home-good-vip-btn-shadow: 0 #{px2rem(18)} #{px2rem(37)} rgba(0, 0, 0, 0.4);
+    --home-room-status-color: rgba(255, 181, 136, 1);
+    --home-room-status-background: linear-gradient(131.39deg, #6F7580 -114.13%, rgba(31, 34, 37, 0) 193.51%);
+    --sidebar-background: rgba(31, 33, 37, 1);
+    --switch-color:rgba(255, 153, 0, 1);
+    --card-background:  linear-gradient(131.39deg, rgba(111, 117, 128, 1) -114.13%, rgba(31, 34, 37, 0) 193.51%);
+    --tab-background:  #32353C;
+    --image-background:  #3A3E45;
+    --image-border-background: #3A3E45;
+    --pending-status: rgba(255, 181, 136, 1);
+
+    ///add wallet address
+    --add-wallet-main-background: linear-gradient(104.11deg, rgba(72, 76, 87, 1) -39.79%, rgba(29, 31, 35, 1) 132.69%);
+    --add-wallet-header-color: rgba(255, 255, 255, 1);
+    --add-wallet-form-label-color: rgba(255, 255, 255, 1);
+    --add-wallet-input-background: transparent;
+    --add-wallet-input-placeholder: rgba(102, 107, 121, 1);
+    --add-wallet-input-border: rgba(255, 255, 255, 0.103);
+    --add-wallet-mainnet-background: transparent;
+    --add-wallet-mainnet-active: rgb(255, 255, 255);
+
+    //share page
+    --share-main-background: linear-gradient(104.11deg, rgba(72, 76, 87, 1) -39.79%, rgba(29, 31, 35, 1) 132.69%);
+    --share-input-background: rgba(79, 86, 100, 1);
+
+    //Room Detail
+    --room-detail-background: rgba(31, 33, 37, 1);
+    --room-detail-card-background: linear-gradient(180deg, rgba(54, 57, 65, 1) 0%, rgba(62, 66, 75, 0) 100%);
+    --room-detail-card-shadow: rgba(0, 0, 0, 0.25);
+    --room-detail-card-img-background:  linear-gradient(180deg, rgba(54, 57, 65, 1) 0%, rgba(62, 66, 75, 0.6) 100%);
+    --room-detail-content-wrap-background: rgba(40, 42, 47, 1);
+    --room-detail-tab-item-background: linear-gradient(180deg, rgba(54, 57, 65, 1) 0%, rgba(62, 66, 75, 0.6) 100%);
+    --room-detail-tab-item-title-background: linear-gradient(131.39deg, rgba(111, 117, 128, 1) -114.13%, rgba(31, 34, 37, 0) 193.51%);
+    --room-detail-progress-inactive-bg: rgba(77, 83, 96, 1);
+    --room-detail-plus-icon-background: rgba(40, 42, 47, 1);
+    --room-detail-plus-icon-color: rgba(255, 255, 255, 1);
+    --room-detail-footer-bg-color: rgba(40, 42, 47, 1);
+
+    //number keyboard color
+    --number-keyboard-background: rgba(31, 33, 37, 1);
+    --number-keyboard-color: rgba(255, 255, 255, 1);
+    --number-keyboard-item-background:  linear-gradient(131.39deg, rgba(111, 117, 128, 1) -114.13%, rgba(31, 34, 37, 0) 193.51%);
+}

@@ -1,0 +1,39 @@
+const modules = import.meta.globEager("./language/**/*.js");
+function getLanguages(langs, prefix = "language") {
+  let obj = {
+    ca: {},
+    cn: {},
+    de: {},
+    en: {},
+    es: {},
+    fr: {},
+    gr: {},
+    hr: {},
+    it: {},
+    nl: {},
+    pt: {},
+    rs: {},
+    ru: {},
+    se: {},
+    tr: {},
+  };
+  Object.keys(langs).forEach((key) => {
+    const mod = langs[key].default;
+    let k = key
+      .replace(`./${prefix}/`, "")
+      .replace(/^\.\//, "")
+      .replace("/index", "");
+    const lastIndex = k.lastIndexOf(".");
+    k = k.substring(0, lastIndex);
+    const keyList = k.split("/");
+    const lang = keyList.pop();
+
+    if (obj[lang]) {
+      obj[lang][keyList[0]] = { ...mod };
+    }
+  });
+  return obj;
+}
+const language = getLanguages(modules);
+
+export default language;

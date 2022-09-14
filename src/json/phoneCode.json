@@ -1,0 +1,1196 @@
+[
+    {
+        "cnName": "安哥拉",
+        "dialingCode": "+244",
+        "enName": "Angola",
+        "iso_code": "AO"
+    },
+    {
+        "cnName": "阿富汗",
+        "dialingCode": "+93",
+        "enName": "Afghanistan",
+        "iso_code": "AF"
+    },
+    {
+        "cnName": "阿尔巴尼亚 ",
+        "dialingCode": "+355",
+        "enName": "Albania",
+        "iso_code": "AL"
+    },
+    {
+        "cnName": "阿尔及利亚",
+        "dialingCode": "+213",
+        "enName": "Algeria",
+        "iso_code": "DZ"
+    },
+    {
+        "cnName": "安道尔共和国",
+        "dialingCode": "+376",
+        "enName": "Andorra",
+        "iso_code": "AD"
+    },
+    {
+        "cnName": "安圭拉岛",
+        "dialingCode": "+1264",
+        "enName": "Anguilla",
+        "iso_code": "AI"
+    },
+    {
+        "cnName": "安提瓜和巴布达",
+        "dialingCode": "+1268",
+        "enName": "Antigua and Barbuda",
+        "iso_code": "AG"
+    },
+    {
+        "cnName": "阿根廷",
+        "dialingCode": "+54",
+        "enName": "Argentina",
+        "iso_code": "AR"
+    },
+    {
+        "cnName": "亚美尼亚",
+        "dialingCode": "+374",
+        "enName": "Armenia",
+        "iso_code": "AM"
+    },
+    {
+        "cnName": "阿森松",
+        "dialingCode": "+247",
+        "enName": "Ascension",
+        "iso_code": "SH"
+    },
+    {
+        "cnName": "澳大利亚",
+        "dialingCode": "+61",
+        "enName": "Australia",
+        "iso_code": "AU"
+    },
+    {
+        "cnName": "奥地利",
+        "dialingCode": "+43",
+        "enName": "Austria",
+        "iso_code": "AT"
+    },
+    {
+        "cnName": "阿塞拜疆",
+        "dialingCode": "+994",
+        "enName": "Azerbaijan",
+        "iso_code": "AZ"
+    },
+    {
+        "cnName": "巴哈马",
+        "dialingCode": "+1242",
+        "enName": "Bahamas",
+        "iso_code": "BS"
+    },
+    {
+        "cnName": "巴林",
+        "dialingCode": "+973",
+        "enName": "Bahrain",
+        "iso_code": "BH"
+    },
+    {
+        "cnName": "巴勒斯坦",
+        "dialingCode": "+970",
+        "enName": "Palestine",
+        "iso_code": "PS"
+    },
+    {
+        "cnName": "孟加拉国",
+        "dialingCode": "+880",
+        "enName": "Bangladesh",
+        "iso_code": "BD"
+    },
+    {
+        "cnName": "巴巴多斯",
+        "dialingCode": "+1246",
+        "enName": "Barbados",
+        "iso_code": "BB"
+    },
+    {
+        "cnName": "白俄罗斯",
+        "dialingCode": "+375",
+        "enName": "Belarus",
+        "iso_code": "BY"
+    },
+    {
+        "cnName": "比利时",
+        "dialingCode": "+32",
+        "enName": "Belgium",
+        "iso_code": "BE"
+    },
+    {
+        "cnName": "伯利兹",
+        "dialingCode": "+501",
+        "enName": "Belize",
+        "iso_code": "BZ"
+    },
+    {
+        "cnName": "贝宁",
+        "dialingCode": "+229",
+        "enName": "Benin",
+        "iso_code": "BJ"
+    },
+    {
+        "cnName": "百慕大群岛",
+        "dialingCode": "+1441",
+        "enName": "Bermuda",
+        "iso_code": "BM"
+    },
+    {
+        "cnName": "玻利维亚",
+        "dialingCode": "+591",
+        "enName": "Bolivia",
+        "iso_code": "BO"
+    },
+    {
+        "cnName": "博茨瓦纳",
+        "dialingCode": "+267",
+        "enName": "Botswana",
+        "iso_code": "BW"
+    },
+    {
+        "cnName": "巴西",
+        "dialingCode": "+55",
+        "enName": "Brazil",
+        "iso_code": "BR"
+    },
+    {
+        "cnName": "文莱",
+        "dialingCode": "+673",
+        "enName": "Brunei",
+        "iso_code": "BN"
+    },
+    {
+        "cnName": "保加利亚",
+        "dialingCode": "+359",
+        "enName": "Bulgaria",
+        "iso_code": "BG"
+    },
+    {
+        "cnName": "布基纳法索",
+        "dialingCode": "+226",
+        "enName": "Burkina-faso",
+        "iso_code": "BF"
+    },
+    {
+        "cnName": "缅甸",
+        "dialingCode": "+95",
+        "enName": "Myanmar",
+        "iso_code": "MM"
+    },
+    {
+        "cnName": "布隆迪",
+        "dialingCode": "+257",
+        "enName": "Burundi",
+        "iso_code": "BI"
+    },
+    {
+        "cnName": "喀麦隆",
+        "dialingCode": "+237",
+        "enName": "Cameroon",
+        "iso_code": "CM"
+    },
+    {
+        "cnName": "加拿大",
+        "dialingCode": "+1",
+        "enName": "Canada",
+        "iso_code": "CA"
+    },
+    {
+        "cnName": "开曼群岛",
+        "dialingCode": "+1345",
+        "enName": "Cayman Is.",
+        "iso_code": "KY"
+    },
+    {
+        "cnName": "中非共和国 ",
+        "dialingCode": "+236",
+        "enName": "Central African Republic",
+        "iso_code": "CF"
+    },
+    {
+        "cnName": "乍得",
+        "dialingCode": "+235",
+        "enName": "Chad",
+        "iso_code": "TD"
+    },
+    {
+        "cnName": "智利",
+        "dialingCode": "+56",
+        "enName": "Chile",
+        "iso_code": "CL"
+    },
+    {
+        "cnName": "中国",
+        "dialingCode": "+86",
+        "enName": "China",
+        "iso_code": "CN"
+    },
+    {
+        "cnName": "哥伦比亚",
+        "dialingCode": "+57",
+        "enName": "Colombia",
+        "iso_code": "CO"
+    },
+    {
+        "cnName": "刚果",
+        "dialingCode": "+243",
+        "enName": "Congo",
+        "iso_code": "CD"
+    },
+    {
+        "cnName": "库克群岛",
+        "dialingCode": "+682",
+        "enName": "Cook Is.",
+        "iso_code": "CK"
+    },
+    {
+        "cnName": "哥斯达黎加",
+        "dialingCode": "+506",
+        "enName": "Costa Rica",
+        "iso_code": "CR"
+    },
+    {
+        "cnName": "古巴",
+        "dialingCode": "+53",
+        "enName": "Cuba",
+        "iso_code": "CU"
+    },
+    {
+        "cnName": "塞浦路斯",
+        "dialingCode": "+357",
+        "enName": "Cyprus",
+        "iso_code": "CY"
+    },
+    {
+        "cnName": "捷克",
+        "dialingCode": "+420",
+        "enName": "Czech Republic",
+        "iso_code": "CZ"
+    },
+    {
+        "cnName": "丹麦",
+        "dialingCode": "+45",
+        "enName": "Denmark",
+        "iso_code": "DK"
+    },
+    {
+        "cnName": "吉布提",
+        "dialingCode": "+253",
+        "enName": "Djibouti",
+        "iso_code": "DJ"
+    },
+    {
+        "cnName": "多米尼加共和国",
+        "dialingCode": "+1809",
+        "enName": "Dominica Rep.",
+        "iso_code": "DO"
+    },
+    {
+        "cnName": "多米尼加共和国",
+        "dialingCode": "+1829",
+        "enName": "Dominica Rep.",
+        "iso_code": "DO"
+    },
+    {
+        "cnName": "多米尼加共和国",
+        "dialingCode": "+1849",
+        "enName": "Dominica Rep.",
+        "iso_code": "DO"
+    },
+    {
+        "cnName": "厄瓜多尔",
+        "dialingCode": "+593",
+        "enName": "Ecuador",
+        "iso_code": "EC"
+    },
+    {
+        "cnName": "埃及",
+        "dialingCode": "+20",
+        "enName": "Egypt",
+        "iso_code": "EG"
+    },
+    {
+        "cnName": "萨尔瓦多",
+        "dialingCode": "+503",
+        "enName": "EISalvador",
+        "iso_code": "SV"
+    },
+    {
+        "cnName": "爱沙尼亚",
+        "dialingCode": "+372",
+        "enName": "Estonia",
+        "iso_code": "EE"
+    },
+    {
+        "cnName": "埃塞俄比亚",
+        "dialingCode": "+251",
+        "enName": "Ethiopia",
+        "iso_code": "ET"
+    },
+    {
+        "cnName": "斐济",
+        "dialingCode": "+679",
+        "enName": "Fiji",
+        "iso_code": "FJ"
+    },
+    {
+        "cnName": "芬兰",
+        "dialingCode": "+358",
+        "enName": "Finland",
+        "iso_code": "FI"
+    },
+    {
+        "cnName": "法国",
+        "dialingCode": "+33",
+        "enName": "France",
+        "iso_code": "FR"
+    },
+    {
+        "cnName": "法属圭亚那",
+        "dialingCode": "+594",
+        "enName": "French Guiana",
+        "iso_code": "GF"
+    },
+    {
+        "cnName": "加蓬",
+        "dialingCode": "+241",
+        "enName": "Gabon",
+        "iso_code": "GA"
+    },
+    {
+        "cnName": "冈比亚",
+        "dialingCode": "+220",
+        "enName": "Gambia",
+        "iso_code": "GM"
+    },
+    {
+        "cnName": "格鲁吉亚",
+        "dialingCode": "+995",
+        "enName": "Georgia",
+        "iso_code": "GE"
+    },
+    {
+        "cnName": "德国",
+        "dialingCode": "+49",
+        "enName": "Germany",
+        "iso_code": "DE"
+    },
+    {
+        "cnName": "加纳",
+        "dialingCode": "+233",
+        "enName": "Ghana",
+        "iso_code": "GH"
+    },
+    {
+        "cnName": "直布罗陀",
+        "dialingCode": "+350",
+        "enName": "Gibraltar",
+        "iso_code": "GI"
+    },
+    {
+        "cnName": "希腊",
+        "dialingCode": "+30",
+        "enName": "Greece",
+        "iso_code": "GR"
+    },
+    {
+        "cnName": "格林纳达",
+        "dialingCode": "+1473",
+        "enName": "Grenada",
+        "iso_code": "GD"
+    },
+    {
+        "cnName": "关岛",
+        "dialingCode": "+1671",
+        "enName": "Guam",
+        "iso_code": "GU"
+    },
+    {
+        "cnName": "危地马拉",
+        "dialingCode": "+502",
+        "enName": "Guatemala",
+        "iso_code": "GT"
+    },
+    {
+        "cnName": "几内亚",
+        "dialingCode": "+224",
+        "enName": "Guinea",
+        "iso_code": "GN"
+    },
+    {
+        "cnName": "圭亚那",
+        "dialingCode": "+592",
+        "enName": "Guyana",
+        "iso_code": "GY"
+    },
+    {
+        "cnName": "海地",
+        "dialingCode": "+509",
+        "enName": "Haiti",
+        "iso_code": "HT"
+    },
+    {
+        "cnName": "洪都拉斯",
+        "dialingCode": "+504",
+        "enName": "Honduras",
+        "iso_code": "HN"
+    },
+    {
+        "cnName": "香港",
+        "dialingCode": "+852",
+        "enName": "Hongkong",
+        "iso_code": "HK"
+    },
+    {
+        "cnName": "匈牙利",
+        "dialingCode": "+36",
+        "enName": "Hungary",
+        "iso_code": "HU"
+    },
+    {
+        "cnName": "冰岛",
+        "dialingCode": "+354",
+        "enName": "Iceland",
+        "iso_code": "IS"
+    },
+    {
+        "cnName": "印度",
+        "dialingCode": "+91",
+        "enName": "India",
+        "iso_code": "IN"
+    },
+    {
+        "cnName": "印度尼西亚",
+        "dialingCode": "+62",
+        "enName": "Indonesia",
+        "iso_code": "ID"
+    },
+    {
+        "cnName": "伊朗",
+        "dialingCode": "+98",
+        "enName": "Iran",
+        "iso_code": "IR"
+    },
+    {
+        "cnName": "伊拉克",
+        "dialingCode": "+964",
+        "enName": "Iraq",
+        "iso_code": "IQ"
+    },
+    {
+        "cnName": "爱尔兰",
+        "dialingCode": "+353",
+        "enName": "Ireland",
+        "iso_code": "IE"
+    },
+    {
+        "cnName": "以色列",
+        "dialingCode": "+972",
+        "enName": "Israel",
+        "iso_code": "IL"
+    },
+    {
+        "cnName": "意大利",
+        "dialingCode": "+39",
+        "enName": "Italy",
+        "iso_code": "IT"
+    },
+    {
+        "cnName": "科特迪瓦",
+        "dialingCode": "+225",
+        "enName": "IvoryCoast",
+        "iso_code": "CI"
+    },
+    {
+        "cnName": "牙买加",
+        "dialingCode": "+1876",
+        "enName": "Jamaica",
+        "iso_code": "JM"
+    },
+    {
+        "cnName": "日本",
+        "dialingCode": "+81",
+        "enName": "Japan",
+        "iso_code": "JP"
+    },
+    {
+        "cnName": "约旦",
+        "dialingCode": "+962",
+        "enName": "Jordan",
+        "iso_code": "JO"
+    },
+    {
+        "cnName": "柬埔寨",
+        "dialingCode": "+855",
+        "enName": "Cambodia",
+        "iso_code": "KH"
+    },
+    {
+        "cnName": "哈萨克斯坦 ",
+        "dialingCode": "+7",
+        "enName": "Kazakstan",
+        "iso_code": "KZ"
+    },
+    {
+        "cnName": "肯尼亚",
+        "dialingCode": "+254",
+        "enName": "Kenya",
+        "iso_code": "KE"
+    },
+    {
+        "cnName": "韩国",
+        "dialingCode": "+82",
+        "enName": "Korea",
+        "iso_code": "KP"
+    },
+    {
+        "cnName": "科威特",
+        "dialingCode": "+965",
+        "enName": "Kuwait",
+        "iso_code": "KW"
+    },
+    {
+        "cnName": "吉尔吉斯坦 ",
+        "dialingCode": "+996",
+        "enName": "Kyrgyzstan",
+        "iso_code": "KG"
+    },
+    {
+        "cnName": "老挝",
+        "dialingCode": "+856",
+        "enName": "Laos",
+        "iso_code": "LA"
+    },
+    {
+        "cnName": "拉脱维亚",
+        "dialingCode": "+371",
+        "enName": "Latvia",
+        "iso_code": "LV"
+    },
+    {
+        "cnName": "黎巴嫩",
+        "dialingCode": "+961",
+        "enName": "Lebanon",
+        "iso_code": "LB"
+    },
+    {
+        "cnName": "莱索托",
+        "dialingCode": "+266",
+        "enName": "Lesotho",
+        "iso_code": "LS"
+    },
+    {
+        "cnName": "利比里亚",
+        "dialingCode": "+231",
+        "enName": "Liberia",
+        "iso_code": "LR"
+    },
+    {
+        "cnName": "利比亚",
+        "dialingCode": "+218",
+        "enName": "Libya",
+        "iso_code": "LY"
+    },
+    {
+        "cnName": "列支敦士登",
+        "dialingCode": "+423",
+        "enName": "Liechtenstein",
+        "iso_code": "LI"
+    },
+    {
+        "cnName": "立陶宛",
+        "dialingCode": "+370",
+        "enName": "Lithuania",
+        "iso_code": "LT"
+    },
+    {
+        "cnName": "卢森堡",
+        "dialingCode": "+352",
+        "enName": "Luxembourg",
+        "iso_code": "LU"
+    },
+    {
+        "cnName": "澳门",
+        "dialingCode": "+853",
+        "enName": "Macau",
+        "iso_code": "MO"
+    },
+    {
+        "cnName": "马达加斯加",
+        "dialingCode": "+261",
+        "enName": "Madagascar",
+        "iso_code": "MG"
+    },
+    {
+        "cnName": "马拉维",
+        "dialingCode": "+265",
+        "enName": "Malawi",
+        "iso_code": "MW"
+    },
+    {
+        "cnName": "马来西亚",
+        "dialingCode": "+60",
+        "enName": "Malaysia",
+        "iso_code": "MY"
+    },
+    {
+        "cnName": "马尔代夫",
+        "dialingCode": "+960",
+        "enName": "Maldives",
+        "iso_code": "MV"
+    },
+    {
+        "cnName": "马里",
+        "dialingCode": "+223",
+        "enName": "Mali",
+        "iso_code": "ML"
+    },
+    {
+        "cnName": "马耳他",
+        "dialingCode": "+356",
+        "enName": "Malta",
+        "iso_code": "MT"
+    },
+    {
+        "cnName": "马里亚那群岛",
+        "dialingCode": "+1670",
+        "enName": "Mariana Is",
+        "iso_code": "MP"
+    },
+    {
+        "cnName": "马提尼克",
+        "dialingCode": "+596",
+        "enName": "Martinique",
+        "iso_code": "FR"
+    },
+    {
+        "cnName": "毛里求斯",
+        "dialingCode": "+230",
+        "enName": "Mauritius",
+        "iso_code": "MU"
+    },
+    {
+        "cnName": "墨西哥",
+        "dialingCode": "+52",
+        "enName": "Mexico",
+        "iso_code": "MX"
+    },
+    {
+        "cnName": "摩尔多瓦",
+        "dialingCode": "+373",
+        "enName": "Moldova",
+        "iso_code": "MD"
+    },
+    {
+        "cnName": "摩纳哥",
+        "dialingCode": "+377",
+        "enName": "Monacu",
+        "iso_code": "MC"
+    },
+    {
+        "cnName": "蒙古",
+        "dialingCode": "+976",
+        "enName": "Mongolia",
+        "iso_code": "MN"
+    },
+    {
+        "cnName": "蒙特塞拉特岛",
+        "dialingCode": "+1664",
+        "enName": "Montserrat",
+        "iso_code": "MS"
+    },
+    {
+        "cnName": "摩洛哥",
+        "dialingCode": "+212",
+        "enName": "Morocco",
+        "iso_code": "MA"
+    },
+    {
+        "cnName": "莫桑比克",
+        "dialingCode": "+258",
+        "enName": "Mozambique",
+        "iso_code": "MZ"
+    },
+    {
+        "cnName": "纳米比亚",
+        "dialingCode": "+264",
+        "enName": "Namibia",
+        "iso_code": "NA"
+    },
+    {
+        "cnName": "瑙鲁",
+        "dialingCode": "+674",
+        "enName": "Nauru",
+        "iso_code": "NR"
+    },
+    {
+        "cnName": "尼泊尔",
+        "dialingCode": "+977",
+        "enName": "Nepal",
+        "iso_code": "NP"
+    },
+    {
+        "cnName": "荷属安的列斯",
+        "dialingCode": "+599",
+        "enName": "Netheriands Antilles",
+        "iso_code": "AN"
+    },
+    {
+        "cnName": "荷兰",
+        "dialingCode": "+31",
+        "enName": "Netherlands ",
+        "iso_code": "NL"
+    },
+    {
+        "cnName": "新西兰",
+        "dialingCode": "+64",
+        "enName": "New Zealand",
+        "iso_code": "NZ"
+    },
+    {
+        "cnName": "尼加拉瓜",
+        "dialingCode": "+505",
+        "enName": "Nicaragua",
+        "iso_code": "NI"
+    },
+    {
+        "cnName": "尼日尔",
+        "dialingCode": "+227",
+        "enName": "Niger",
+        "iso_code": "NE"
+    },
+    {
+        "cnName": "尼日利亚",
+        "dialingCode": "+234",
+        "enName": "Nigeria",
+        "iso_code": "NG"
+    },
+    {
+        "cnName": "朝鲜",
+        "dialingCode": "+850",
+        "enName": "North Korea",
+        "iso_code": "KP"
+    },
+    {
+        "cnName": "挪威",
+        "dialingCode": "+47",
+        "enName": "Norway",
+        "iso_code": "NO"
+    },
+    {
+        "cnName": "阿曼",
+        "dialingCode": "+968",
+        "enName": "Oman",
+        "iso_code": "OM"
+    },
+    {
+        "cnName": "巴基斯坦",
+        "dialingCode": "+92",
+        "enName": "Pakistan",
+        "iso_code": "PK"
+    },
+    {
+        "cnName": "巴拿马",
+        "dialingCode": "+507",
+        "enName": "Panama",
+        "iso_code": "PA"
+    },
+    {
+        "cnName": "巴布亚新几内亚",
+        "dialingCode": "+675",
+        "enName": "Papua New Guinea",
+        "iso_code": "PG"
+    },
+    {
+        "cnName": "巴拉圭",
+        "dialingCode": "+595",
+        "enName": "Paraguay",
+        "iso_code": "PY"
+    },
+    {
+        "cnName": "秘鲁",
+        "dialingCode": "+51",
+        "enName": "Peru",
+        "iso_code": "PE"
+    },
+    {
+        "cnName": "菲律宾",
+        "dialingCode": "+63",
+        "enName": "Philippines ",
+        "iso_code": "PH"
+    },
+    {
+        "cnName": "波兰",
+        "dialingCode": "+48",
+        "enName": "Poland",
+        "iso_code": "PL"
+    },
+    {
+        "cnName": "法属玻利尼西亚",
+        "dialingCode": "+689",
+        "enName": "French Polynesia",
+        "iso_code": "PF"
+    },
+    {
+        "cnName": "葡萄牙",
+        "dialingCode": "+351",
+        "enName": "Portugal",
+        "iso_code": "PT"
+    },
+    {
+        "cnName": "波多黎各",
+        "dialingCode": "+1787",
+        "enName": "Puerto Rico",
+        "iso_code": "PR"
+    },
+    {
+        "cnName": "波多黎各",
+        "dialingCode": "+1939",
+        "enName": "Puerto Rico",
+        "iso_code": "PR"
+    },
+    {
+        "cnName": "卡塔尔",
+        "dialingCode": "+974",
+        "enName": "Qatar",
+        "iso_code": "QA"
+    },
+    {
+        "cnName": "留尼旺",
+        "dialingCode": "+262",
+        "enName": "Reunion",
+        "iso_code": "RE"
+    },
+    {
+        "cnName": "罗马尼亚",
+        "dialingCode": "+40",
+        "enName": "Romania",
+        "iso_code": "RO"
+    },
+    {
+        "cnName": "俄罗斯",
+        "dialingCode": "+7",
+        "enName": "Russia",
+        "iso_code": "RU"
+    },
+    {
+        "cnName": "圣卢西亚",
+        "dialingCode": "+1758",
+        "enName": "Saint Lucia",
+        "iso_code": "LC"
+    },
+    {
+        "cnName": "圣文森特岛 ",
+        "dialingCode": "+1784",
+        "enName": "Saint Vincent",
+        "iso_code": "VC"
+    },
+    {
+        "cnName": "东萨摩亚(美)",
+        "dialingCode": "+684",
+        "enName": "Samoa Eastern",
+        "iso_code": "WS"
+    },
+    {
+        "cnName": "西萨摩亚",
+        "dialingCode": "+685",
+        "enName": "Samoa Western",
+        "iso_code": "WS"
+    },
+    {
+        "cnName": "圣马力诺",
+        "dialingCode": "+378",
+        "enName": "San Marino",
+        "iso_code": "SM"
+    },
+    {
+        "cnName": "圣多美和普林西比",
+        "dialingCode": "+239",
+        "enName": "Sao Tome and Principe",
+        "iso_code": "ST"
+    },
+    {
+        "cnName": "沙特阿拉伯",
+        "dialingCode": "+966",
+        "enName": "Saudi Arabia",
+        "iso_code": "SA"
+    },
+    {
+        "cnName": "塞内加尔",
+        "dialingCode": "+221",
+        "enName": "Senegal",
+        "iso_code": "SN"
+    },
+    {
+        "cnName": "塞舌尔",
+        "dialingCode": "+248",
+        "enName": "Seychelles",
+        "iso_code": "SC"
+    },
+    {
+        "cnName": "塞拉利昂",
+        "dialingCode": "+232",
+        "enName": "Sierra Leone",
+        "iso_code": "SL"
+    },
+    {
+        "cnName": "新加坡",
+        "dialingCode": "+65",
+        "enName": "Singapore",
+        "iso_code": "SG"
+    },
+    {
+        "cnName": "斯洛伐克",
+        "dialingCode": "+421",
+        "enName": "Slovakia",
+        "iso_code": "SK"
+    },
+    {
+        "cnName": "斯洛文尼亚 ",
+        "dialingCode": "+386",
+        "enName": "Slovenia",
+        "iso_code": "SI"
+    },
+    {
+        "cnName": "所罗门群岛",
+        "dialingCode": "+677",
+        "enName": "Solomon Is",
+        "iso_code": "SB"
+    },
+    {
+        "cnName": "索马里",
+        "dialingCode": "+252",
+        "enName": "Somalia",
+        "iso_code": "SO"
+    },
+    {
+        "cnName": "南非",
+        "dialingCode": "+27",
+        "enName": "South Africa",
+        "iso_code": "ZA"
+    },
+    {
+        "cnName": "西班牙",
+        "dialingCode": "+34",
+        "enName": "Spain",
+        "iso_code": "ES"
+    },
+    {
+        "cnName": "斯里兰卡",
+        "dialingCode": "+94",
+        "enName": "Sri Lanka",
+        "iso_code": "LK"
+    },
+    {
+        "cnName": "塞尔维亚",
+        "dialingCode": "+381",
+        "enName": "Serbia",
+        "iso_code": "RS"
+    },
+    {
+        "cnName": "圣文森特",
+        "dialingCode": "+1784",
+        "enName": "St.Vincent",
+        "iso_code": "VC"
+    },
+    {
+        "cnName": "苏丹",
+        "dialingCode": "+249",
+        "enName": "Sudan",
+        "iso_code": "SS"
+    },
+    {
+        "cnName": "苏里南",
+        "dialingCode": "+597",
+        "enName": "Suriname",
+        "iso_code": "SR"
+    },
+    {
+        "cnName": "斯威士兰",
+        "dialingCode": "+268",
+        "enName": "Swaziland",
+        "iso_code": "SZ"
+    },
+    {
+        "cnName": "瑞典",
+        "dialingCode": "+46",
+        "enName": "Sweden",
+        "iso_code": "SE"
+    },
+    {
+        "cnName": "瑞士",
+        "dialingCode": "+41",
+        "enName": "Switzerland ",
+        "iso_code": "CH"
+    },
+    {
+        "cnName": "叙利亚",
+        "dialingCode": "+963",
+        "enName": "Syria",
+        "iso_code": "SY"
+    },
+    {
+        "cnName": "台湾省",
+        "dialingCode": "+886",
+        "enName": "Taiwan",
+        "iso_code": "TW"
+    },
+    {
+        "cnName": "塔吉克斯坦 ",
+        "dialingCode": "+992",
+        "enName": "Tajikistan",
+        "iso_code": "TJ"
+    },
+    {
+        "cnName": "坦桑尼亚",
+        "dialingCode": "+255",
+        "enName": "Tanzania",
+        "iso_code": "TZ"
+    },
+    {
+        "cnName": "泰国",
+        "dialingCode": "+66",
+        "enName": "Thailand",
+        "iso_code": "TH"
+    },
+    {
+        "cnName": "多哥",
+        "dialingCode": "+228",
+        "enName": "Togo",
+        "iso_code": "TG"
+    },
+    {
+        "cnName": "汤加",
+        "dialingCode": "+676",
+        "enName": "Tonga",
+        "iso_code": "TO"
+    },
+    {
+        "cnName": "特立尼达和多巴哥",
+        "dialingCode": "+1868",
+        "enName": "Trinidad and Tobago",
+        "iso_code": "TT"
+    },
+    {
+        "cnName": "突尼斯",
+        "dialingCode": "+216",
+        "enName": "Tunisia",
+        "iso_code": "TN"
+    },
+    {
+        "cnName": "土耳其",
+        "dialingCode": "+90",
+        "enName": "Turkey",
+        "iso_code": "TR"
+    },
+    {
+        "cnName": "土库曼斯坦 ",
+        "dialingCode": "+993",
+        "enName": "Turkmenistan",
+        "iso_code": "TM"
+    },
+    {
+        "cnName": "乌干达",
+        "dialingCode": "+256",
+        "enName": "Uganda",
+        "iso_code": "UG"
+    },
+    {
+        "cnName": "乌克兰",
+        "dialingCode": "+380",
+        "enName": "Ukraine",
+        "iso_code": "UA"
+    },
+    {
+        "cnName": "阿拉伯联合酋长国",
+        "dialingCode": "+971",
+        "enName": "United Arab Emirates",
+        "iso_code": "AE"
+    },
+    {
+        "cnName": "英国",
+        "dialingCode": "+44",
+        "enName": "United Kiongdom",
+        "iso_code": "GB"
+    },
+    {
+        "cnName": "美国",
+        "dialingCode": "+1",
+        "enName": "United States of America",
+        "iso_code": "US"
+    },
+    {
+        "cnName": "乌拉圭",
+        "dialingCode": "+598",
+        "enName": "Uruguay",
+        "iso_code": "UY"
+    },
+    {
+        "cnName": "乌兹别克斯坦",
+        "dialingCode": "+998",
+        "enName": "Uzbekistan",
+        "iso_code": "UZ"
+    },
+    {
+        "cnName": "委内瑞拉",
+        "dialingCode": "+58",
+        "enName": "Venezuela",
+        "iso_code": "VE"
+    },
+    {
+        "cnName": "越南",
+        "dialingCode": "+84",
+        "enName": "Vietnam",
+        "iso_code": "VN"
+    },
+    {
+        "cnName": "也门",
+        "dialingCode": "+967",
+        "enName": "Yemen",
+        "iso_code": "YE"
+    },
+    {
+        "cnName": "南斯拉夫",
+        "dialingCode": "+38",
+        "enName": "Yugoslavia",
+        "iso_code": "YU"
+    },
+    {
+        "cnName": "津巴布韦",
+        "dialingCode": "+263",
+        "enName": "Zimbabwe",
+        "iso_code": "ZW"
+    },
+    {
+        "cnName": "扎伊尔",
+        "dialingCode": "+243",
+        "enName": "Zaire",
+        "iso_code": "CD"
+    },
+    {
+        "cnName": "赞比亚",
+        "dialingCode": "+260",
+        "enName": "Zambia",
+        "iso_code": "ZM"
+    },
+    {
+        "cnName": "北马其顿",
+        "dialingCode": "+389",
+        "enName": "North macedonia",
+        "iso_code": "MK"
+    },
+    {
+        "cnName": "克罗地亚",
+        "dialingCode": "+385",
+        "enName": "Croatia",
+        "iso_code": "HR"
+    },
+    {
+        "cnName": "科索沃",
+        "dialingCode": "+383",
+        "enName": "Kosovo",
+        "iso_code": "KF"
+    }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html data-content-max >
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="<%= icon %>" type="image/x-icon" />
+    <title><%= title %></title>
+
+    <meta
+      name="viewport"
+      content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5"
+    />
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <meta
+      name="description"
+      content="The Complete Multichannel Commerce Solution for Brands and Retailers. Expand to new channels and grow sales — all from a centralized platform."
+    />
+    <meta
+      property="og:description"
+      content="The Complete Multichannel Commerce Solution for Brands and Retailers. Expand to new channels and grow sales — all from a centralized platform."
+    />
+
+    <meta
+      name="description"
+      content="为品牌和零售商提供完整的多渠道商务解决方案扩展到新的渠道并增加销售额 - 所有这些都来自一个集中的平台。"
+    />
+    <meta
+      property="og:description"
+      content="为品牌和零售商提供完整的多渠道商务解决方案扩展到新的渠道并增加销售额 - 所有这些都来自一个集中的平台。"
+    />
+
+    <meta
+      name="description"
+      content="La solución completa de comercio multicanal para marcas y minoristas. Expanda a nuevos canales y aumente las ventas, todo desde una plataforma centralizada."
+    />
+    <meta
+      property="og:description"
+      content="La solución completa de comercio multicanal para marcas y minoristas. Expanda a nuevos canales y aumente las ventas, todo desde una plataforma centralizada."
+    />
+
+    <title></title>
+  </head>
+  <body data-content-max>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+    <script>
+        let lang = JSON.parse(localStorage.getItem("vuex-user"));
+        if (lang) {
+          document.documentElement.setAttribute('lang',lang.user.lang);
+        } else {
+          document.documentElement.setAttribute('lang','en');
+        }
+    </script>
+  </body>
+</html>
