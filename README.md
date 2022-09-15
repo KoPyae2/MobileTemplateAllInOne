@@ -8,7 +8,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Installing 
 
-- npm Install
+- npm install
 - yarn install
 
 ## Run
@@ -17,6 +17,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Building for deploy
 
-- npm run Build
+- npm run build
 
 There contain 2 env you can add more and can use it .
