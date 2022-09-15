@@ -79,7 +79,6 @@ export default {
   --van-tabbar-item-active-background-color: transparent;
   --van-tabbar-item-active-color: #000;
   box-sizing: boder-box;
-  font-family: SF Pro;
   padding-top: px2rem(22);
   overflow: hidden;
 
@@ -107,7 +106,7 @@ export default {
   }
   .tabTitle {
     color: rgba(66, 66, 66, 1);
-    font-family: SF Pro;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: px2rem(24);
     text-align: center;
   }
